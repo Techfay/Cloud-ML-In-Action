@@ -1,3 +1,10 @@
+######Cloud ML In Action#######
+
+Comparative study of two different supervised learning techniques.
+
+🚀 To Launch Streamlit App (https://knnsvmpriv-bxho9ggzwfetj7jnbqzfev.streamlit.app/)
+
+
 Customer Segmentation using KNN and SVM
 
 Overview:-
@@ -66,4 +73,6 @@ Future Improvements:
 
 License:
  - This project is open-source and available under the MIT License.
+
+ - Author . Shivangi Pandey 
 
